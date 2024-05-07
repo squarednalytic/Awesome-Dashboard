@@ -24,7 +24,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/squarednalytic/Awesome-Dashboard
 2. Install dependencies:
    cd AwesomeDashboardWRN
    npm install
